@@ -36,6 +36,9 @@ return packer.startup(function(use)
   -- install Material colourscheme
   use ("marko-cerovac/material.nvim")
   
+  -- install OneDark colourscheme
+  use ("ful1e5/onedark.nvim")
+  
   -- install Nord Vim colourscheme
   use("arcticicestudio/nord-vim")
   
