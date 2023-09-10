@@ -1,1 +1,1 @@
-Set of instructions to quickly set up the dev environment based on NeoVim for Rust.
+Set of instructions to quickly set up a dev environment based on NeoVim for Rust.
